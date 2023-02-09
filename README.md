@@ -1,2 +1,6 @@
 # sacode-coding-dasar-i-tugas-day04
-Tugas
+
+Topic : Skeleton Loding Animation
+
+
+GITHUB PAGE : https://ivenlagowan.github.io/sacode-coding-dasar-i-tugas-day04/
